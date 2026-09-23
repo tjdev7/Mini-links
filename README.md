@@ -1,4 +1,4 @@
-# 🔗 Client-Side URL Shortener (React)
+# 🔗 Mini-Links
 
 A fully functional, **zero-backend** URL shortener that lives entirely in your browser. Built with React and React Router (`HashRouter`), it generates short links and stores them directly in your browser's `localStorage`—no servers, no databases, no API keys required.
 
