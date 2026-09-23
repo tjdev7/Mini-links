@@ -191,3 +191,11 @@ h1 {
     width: 100%;
   }
 }
+
+.app-title {
+  text-align: center;
+}
+
+.app-subtitle {
+  padding-bottom: 1rem;
+}
