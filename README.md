@@ -1,11 +1,11 @@
-# 🔗 Mini-Links
+# 🔗 Mini-Links 🔗
 
 A fully functional, **zero-backend** URL shortener that lives entirely in your browser. Built with React and React Router (`HashRouter`), it generates short links and stores them directly in your browser's `localStorage`—no servers, no databases, no API keys required.
 
 🔴 **Important Caveat:** Because all data is stored in `localStorage`, your shortened links will **only work on the device and browser where they were created**. This is a perfect prototype for learning, local use, or internal team tools, but it is not a global link shortener (like Bitly) without a backend.
 
 ## 🚀 Live Demo
-*Replace this with your GitHub Pages URL after deployment:*
+*Replace this with your GitHub Pages URL after deployment through Github pages:*
 > `https://<your-username>.github.io/<your-repo-name>`
 
 ## ✨ Features
